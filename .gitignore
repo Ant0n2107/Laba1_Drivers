@@ -1,1 +1,8 @@
-.git
+h.mod
+h.mod.o      
+Module.symvers
+h.ko
+h.mod.c
+h.o  
+modules.order
+/.git
